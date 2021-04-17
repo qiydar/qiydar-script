@@ -1,0 +1,1 @@
+# qiydar-script
